@@ -5,13 +5,12 @@
 
 # home page for signed in users
 
-![image](https://user-images.githubusercontent.com/92861422/235945598-05460890-9253-42fc-a969-692951705cee.png)
+![image](https://user-images.githubusercontent.com/84672321/236788571-4c83793e-3c9d-463c-8f6a-3acb599b037d.png)
 
 
 
-# profile page
 
-![image](https://user-images.githubusercontent.com/92861422/235946159-bb67e5a6-42fb-4c17-a968-a5f2616f9927.png)
+
 
 
 
